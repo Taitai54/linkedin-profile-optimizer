@@ -1,0 +1,9 @@
+# Ignore personal profile PDFs, CVs, and analytics exports dropped into the folder for auditing
+*Profile*.pdf
+*CV*.pdf
+*CV*.docx
+*Analytics*.xlsx
+*Overhaul*.md
+__pycache__/
+*.pyc
+.DS_Store
